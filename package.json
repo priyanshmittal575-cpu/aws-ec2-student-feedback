@@ -1,0 +1,9 @@
+{
+  "name": "student-feedback-system",
+  "version": "1.0.0",
+  "description": "Course and lab feedback portal with Node.js backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
